@@ -41,7 +41,12 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 <ul>
   <li>TensorFlow or PyTorch </li>
   </ul>
-<li>4.</li>
+<li>4.Code Editor</li>
+<ul>
+<li>
+  Visual Studio Code (VS Code)
+</li>
+                   
 
 ## Space partitioning for yocto
 After setting up Putty, we encountered issues while attempting to install the essential packages in both Yocto & Builtroot environment. The major issues that we enountered
