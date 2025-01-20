@@ -87,6 +87,8 @@ Accessibility: Responsive design for use on desktops, tablets, and mobile device
 <li> Customization: Personalized pet profiles and engaging animations create a sense of ownership and connection.
   </li>
 </ul>
+
+
                    
 
 
