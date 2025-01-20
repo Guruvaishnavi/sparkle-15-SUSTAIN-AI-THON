@@ -25,6 +25,17 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 ## Novelty
 
 ## Work flow 
+<li>1. Front-End Development</li>
+<li>UI Design:Figma or Adobe XD (for design and prototyping)
+HTML
+CSS
+JavaScript
+</li>
+<li>2. Back-End Development</li>
+<li>Django/Flask (Python frameworks)</li>
+<li>3. Voice and Text Interaction</li>
+<li>TensorFlow or PyTorch </li>
+<li>4.</li>
 
 ## Space partitioning for yocto
 After setting up Putty, we encountered issues while attempting to install the essential packages in both Yocto & Builtroot environment. The major issues that we enountered
