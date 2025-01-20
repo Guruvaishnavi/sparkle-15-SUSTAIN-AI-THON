@@ -23,6 +23,9 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 </ul>
 
 ## Novelty
+
+## Work flow 
+
 ## Space partitioning for yocto
 After setting up Putty, we encountered issues while attempting to install the essential packages in both Yocto & Builtroot environment. The major issues that we enountered
 was, "No space left" so we were unable to install any packages due to inefficient storage.  We were using an 8GB SD card and 90% of it was unallocated. Despite, this the
