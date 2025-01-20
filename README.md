@@ -1,23 +1,26 @@
 ## Mental health monitoring AI
 This project is about implementing a pet AI which understands the human feelings and emotions by their own and gives suggestions and relaxing messages based on our data.
-## Components needed
+## Workflow diagram
 <ul>
 <li>FIGMA - frontend</li>
 <li>Data sets </li>
 <li>NLP</li>
 
-## App tools
+## App features
 <ul>
-<li>Install the software</li>
-<li>After installation, open the software</li>
-<li>You will be directed to a putty configuration window</li>
-<li>Enter the host name i.e the port that is used or connected to the board
-<li>Set the port number to 115200</li>
-<li>Change the connection type to serial connection</li>
-<li>In the categorypanel, click serial and change the flow control to none</li>
-<li>Finally click the open option and you will be directed to the terminal automatically</li>
+<li>Emotional Tracking and Analysis</li>
+<li>Personalized Feedback and Support</li>
+<li>Activity and Routine Monitoring</li>
+<li>Health Monitoring</li>
+<li>Social Interaction Insights</li>
+<li> Productivity and Time Management Support</li>
+<li> Daily Reflection and Goal Setting</li>
+<li> Mindfulness and Relaxation Exercises</li>
+<li> Personalized Pet Interactions</li> 
+<li>Customizable User Experience</li> 
 </ul>
 
+## Novelty
 ## Space partitioning for yocto
 After setting up Putty, we encountered issues while attempting to install the essential packages in both Yocto & Builtroot environment. The major issues that we enountered
 was, "No space left" so we were unable to install any packages due to inefficient storage.  We were using an 8GB SD card and 90% of it was unallocated. Despite, this the
