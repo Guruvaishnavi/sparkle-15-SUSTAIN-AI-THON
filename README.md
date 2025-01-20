@@ -26,10 +26,10 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 
 ## Work flow 
 <li>1. Front-End Development</li>
-<li>UI Design:Figma or Adobe XD (for design and prototyping)
-HTML
-CSS
-JavaScript
+<li>UI Design:Figma or Adobe XD (for design and prototyping)</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
 </li>
 <li>2. Back-End Development</li>
 <li>Django/Flask (Python frameworks)</li>
