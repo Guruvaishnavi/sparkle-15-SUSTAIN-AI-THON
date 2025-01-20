@@ -34,9 +34,13 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 </li>
   </ul>
 <li>2. Back-End Development</li>
-<li>Django/Flask (Python frameworks)</li>
+<ul>
+  <li>Django/Flask (Python frameworks)</li>
+  </ul>
 <li>3. Voice and Text Interaction</li>
-<li>TensorFlow or PyTorch </li>
+<ul>
+  <li>TensorFlow or PyTorch </li>
+  </ul>
 <li>4.</li>
 
 ## Space partitioning for yocto
