@@ -1,46 +1,12 @@
-## Face-recognition-using-SAMA5D27-WLSOM-EK1
-This project is about doing AI Facial recognition using SAMA5D27 WLSOM-EK1 board. This board is ideal for evaluating and prototyping and used for industrial
-purpose. This page will guide you to use the board without any issues as we discuss about the major issues that we encountered from the initial stage.
-
+## Mental health monitoring AI
+This project is about implementing a pet AI which understands the human feelings and emotions by their own and gives suggestions and relaxing messages based on our data.
 ## Components needed
 <ul>
-<li>SAMA5D27 WLSOM-EK1 Board</li>
-<li>SD Card</li>
-<li>Card Reader</li>
-<li>USB Camera</li>
-<li>TTL to USB connector</li>
-<li>Jumper wires</li>
-<li>Power cable</li>
-</ul>
-## Booting
-The OS that we used is Yocto project or Buildroot. The step-by-step guidance is as follows:
+<li>FIGMA - frontend</li>
+<li>Data sets </li>
+<li>NLP</li>
 
-<ul>
-<li>Install Balena Etcher software</li>
-<p align=center>
-<img src="balena etcher.PNG" width="500" height="300">
-</p>
-<li>install Yocto Project OS manually</li>
-<li>Insert the SD Card reader with the SD Card to the laptop</li>
-<li>Open Balena Etcher software and select 'Flash from file option'</li>
-<li>Select the Yocto project file that you have dowloaded</li>
-<li>Next, select the target USB Port</li>
-<li>The file will start to flash automatically</li>
-<li>After flashing open a software called Putty</li>
-<li>Now connect the board to the laptop through TTL-USB converter, and connnect the power cable to the board</li>
-<li>Insert the booted SD Card to the board</li>
-<li>set up the putty and click open</li>
-<li>A terminal will open, press start button and then the reset button on the board</li>
-<li>Your board will start booting</li>
-</ul>
-
-Many a times you will face a lot of issues in booting your OS. And moreover you will not have an OS like Windows, instead you will have to work only with a terminal that
-is supported with putty software.You are supposed to finish all your work with only the terminal.
-You will also face a lot of issues where you get a kernel panic error and your kernel may get killed automatically. When you face such issues clear all the files, format it
-from the begining and install the Yocto Project from the first. If you still face the same issue try installing Buildroot OS, it might be comfortable to use buildroot than
-using Yocto Project as you won't encounter Kernel panic attack 
-
-## Setting up Putty
+## App tools
 <ul>
 <li>Install the software</li>
 <li>After installation, open the software</li>
