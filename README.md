@@ -1,5 +1,7 @@
 ## Mental health monitoring AI
 This project is about implementing a pet AI which understands the human feelings and emotions by their own and gives suggestions and relaxing messages based on our data.
+## Brief Intro
+Developing a mental health monitoring system integrated with AI. It is a virtual pet AI which tracks and monitors the user's daily activities like eating food, water monitoring, step count, sleep monitoring etc. It will analyse the user's actions and emotions by interacting with the user's emotional state.
 ## Workflow diagram
 <ul>
 <li>FIGMA - frontend</li>
