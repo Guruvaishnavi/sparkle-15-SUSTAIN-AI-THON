@@ -47,7 +47,7 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
    - Using Advanced emotional recognition Technology it detects subtle changes in the user’s mood through journaling, voice inputs, or daily check-ins.</li></ul>
 
 ## Control Flow
-
+<img src="concept.jpg" width="500" height="300">
 
 ## Tech Stack 
 <li>1. Front-End Development</li>
