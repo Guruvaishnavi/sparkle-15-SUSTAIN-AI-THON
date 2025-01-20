@@ -70,6 +70,7 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 <li>
   Visual Studio Code (VS Code)
 </li>
+</ul>
 
 ## Solution
 <li>Creating a web-based interactive platform that simulates virtual animals to raise awareness about mental health and provide users with a positive and fun environment. The platform will allow users to configure their pets by entering information such as their name, age, gender, sleep duration, and activity level. It will also provide thought-based ideas and animations to create a human-like environment for mental training.</li>
