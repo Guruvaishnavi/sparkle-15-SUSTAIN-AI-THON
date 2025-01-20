@@ -3,10 +3,7 @@ This project is about implementing a pet AI which understands the human feelings
 ## Brief Intro
 Developing a mental health monitoring system integrated with AI. It is a virtual pet AI which tracks and monitors the user's daily activities like eating food, water monitoring, step count, sleep monitoring etc. It will analyse the user's actions and emotions by interacting with the user's emotional state.
 ## Workflow diagram
-<ul>
-<li>FIGMA - frontend</li>
-<li>Data sets </li>
-<li>NLP</li>
+<img src="flow.jpg" width="500" height="300">
 
 ## App features
 <ul>
@@ -24,7 +21,7 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 
 ## Novelty
 
-## Work flow 
+## Tech Stack 
 <li>1. Front-End Development</li>
 <ul>
   <li>UI Design:Figma or Adobe XD (for design and prototyping)</li>
