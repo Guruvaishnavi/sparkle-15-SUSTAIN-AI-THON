@@ -44,7 +44,7 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
    - Users can design their virtual pets like appearance, personality, and preferences. </li>
 <li>
 8. Emotion-Aware Interactions:  
-   - Using Advanced emotional recognition Technology it detects subtle changes in the user’s mood through journaling, voice inputs, or daily check-ins.</li><ul></ul>
+   - Using Advanced emotional recognition Technology it detects subtle changes in the user’s mood through journaling, voice inputs, or daily check-ins.</li></ul>
 
 
 
