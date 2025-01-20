@@ -70,6 +70,21 @@ Developing a mental health monitoring system integrated with AI. It is a virtual
 <li>
   Visual Studio Code (VS Code)
 </li>
+
+## Solution
+<li>Creating a web-based interactive platform that simulates virtual animals to raise awareness about mental health and provide users with a positive and fun environment. The platform will allow users to configure their pets by entering information such as their name, age, gender, sleep duration, and activity level. It will also provide thought-based ideas and animations to create a human-like environment for mental training.</li>
+<ul>
+  <li>
+    Objective:
+Develop a lightweight web application using Flask that serves as a virtual pet companion. The pet interacts with users based on their input and promotes self-care through real-time insights.
+  </li>
+  <li>
+    Simplicity: A user-friendly interface ensures that all age groups can easily interact with the application.</li>
+  <li>
+Accessibility: Responsive design for use on desktops, tablets, and mobile devices.</li>
+<li> Customization: Personalized pet profiles and engaging animations create a sense of ownership and connection.
+  </li>
+</ul>
                    
 
 
